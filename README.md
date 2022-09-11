@@ -9,4 +9,5 @@
 
 #### Want to use it on your server?
 [Click Here to download it](https://github.com/mallusrgreatv2/deathMessagesExample/releases/download/v1.0/DeathMessage.jar)
+
 [Click Here to view the release 1.0 page](https://github.com/mallusrgreatv2/deathMessagesExample/releases/tag/v1.0)
