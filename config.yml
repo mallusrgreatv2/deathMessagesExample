@@ -1,0 +1,8 @@
+# Message broadcasted to all players when a player is killed by another player.
+player_death_message: "&4<player> &7was killed by &4<killer>"
+
+# Message sent to the killed player.
+killed_message: "&6You were killed by &4<killer> with &c<hearts> \u2764 left."
+
+# Message sent to the killer.
+killer_message: "&6You have killed &4<player>."
