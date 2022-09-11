@@ -1,6 +1,7 @@
 # Customizable Death Messages Plugin
 - Spigot 1.8.8 plugin, haven't tested in any other versions.
 - To disable the default minecraft death message, use the command `/gamerule showDeathMessages false`
+- Every message this plugin sends/broadcasts can be modified by the user. [View config.yml file](https://github.com/mallusrgreatv2/deathMessagesExample/blob/main/config.yml)
 
 ### What it looks like from the killer's perspective
 ![image](https://user-images.githubusercontent.com/69511006/189534597-f818857b-23c5-48ef-9c73-66c4fe458240.png)
